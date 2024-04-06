@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="P:\Flutter\musicplayer_m\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="P:\Flutter\musicplayer_m\build\app"
+    bootClassPath="D:\Apps\Android\SDK\platforms\android-34\android.jar;D:\Apps\Android\SDK\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

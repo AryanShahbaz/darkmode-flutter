@@ -1,0 +1,4 @@
+#Sat Mar 30 23:32:51 IRST 2024
+base.0=P\:\\Flutter\\musicplayer_m\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
